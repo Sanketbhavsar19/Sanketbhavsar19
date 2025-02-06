@@ -1,16 +1,31 @@
-## Hi there 👋
+# 👋 Hi, I'm Sanket Santosh Bhavsar!  
 
-<!--
-**Sanketbhavsar19/Sanketbhavsar19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | React.js | React Native | Node.js**  
+💻 Passionate about building scalable applications and optimizing real-time communication.  
 
-Here are some ideas to get you started:
+## 🔥 Tech Stack  
+- **Frontend**: React.js, React Native, JavaScript  
+- **Backend**: Node.js, Express.js, Spring Boot  
+- **Databases**: MongoDB, MySQL  
+- **Tools & Technologies**: Redux, WebSockets, REST APIs, Selenium, Agile  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects  
+
+### 🎥 Interactive Video Streaming Platform  
+🔹 **Tech Stack**: React.js, JavaScript, Video Streaming Protocols  
+🔹 **Description**: A multi-stream video platform with real-time toggling, category-based browsing, and full-screen live streaming.  
+🔹 **Repo**: [GitHub Link](https://github.com/Sanketbhavsar19/Interactive-Video-Streaming)  
+
+### 🎬 Movie Ticket Booking Platform  
+🔹 **Tech Stack**: React.js, Node.js, REST APIs  
+🔹 **Description**: Browse top-rated movies, view cast details, and book tickets.  
+🔹 **Repo**: [GitHub Link](https://github.com/Sanketbhavsar19/Movie-Ticket-Booking)  
+
+### 💰 Expense Tracker System  
+🔹 **Tech Stack**: React.js, Node.js, Express.js  
+🔹 **Description**: A web app to track expenses, categorize spending, and generate financial reports.  
+🔹 **Repo**: [GitHub Link](https://github.com/Sanketbhavsar19/Expense-Tracker)  
+
+## 📫 Let's Connect!  
+🔗 [LinkedIn](https://www.linkedin.com/in/sanketbhavsar19/)  
+📧 sanket.bhavsarww@gmail.com  
